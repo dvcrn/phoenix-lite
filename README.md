@@ -33,6 +33,12 @@ Clone the project and run `rename_template.sh` with your project name to get eve
 ./rename_template.sh myproject
 ```
 
+Then run the server as always:
+```
+mix deps.get
+mix phx.server
+```
+
 ## License
 
 MIT
